@@ -1,1 +1,1 @@
-console.log("こんにちは");
+console.log("ブランチが切り替わりました");
