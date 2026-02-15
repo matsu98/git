@@ -1,1 +1,1 @@
-console.log("ブランチが切り替わりました");
+console.log("mainブランチです");
