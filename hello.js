@@ -1,1 +1,1 @@
-console.log("プッシュの練習です");
+console.log("スタッシュの練習です");
