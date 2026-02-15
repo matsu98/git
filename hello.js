@@ -1,1 +1,1 @@
-console.log("mainブランチです");
+console.log("プッシュの練習です");
